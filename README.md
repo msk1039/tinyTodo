@@ -9,6 +9,10 @@ A minimalist CLI todo application with both command-line flags and an interactiv
 - Persistent storage of todos in a json file
 - Cross-platform support
 
+## Demo
+
+https://github.com/user-attachments/assets/83ffbf32-4b80-44c7-b72d-1cae6684bf8f
+
 ## Installation 🚀
 
 ```bash
